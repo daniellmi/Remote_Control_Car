@@ -1,6 +1,6 @@
 # Remote control car
-
-
+## Credits to Marcio Henrique Santos, Enzo Alves Cardoso, Alexandre de Souza, Daniel Victor de Macedo Leal as the main creators of this project
+## Marcio Henrique the tutor, the project master developer and technician.
 ## 🛠 Technologies Used
 
 - C++
