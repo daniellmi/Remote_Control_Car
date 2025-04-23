@@ -1,5 +1,4 @@
 #include <Ultrasonic.h>
-#include <string.h>
 
 #define echo 8
 #define trigger 9
